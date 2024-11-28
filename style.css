@@ -3,7 +3,7 @@
 }
 
 
-.download-button-1, .download-button-2, .github-button{
+.unlocked-download-button, .download-button-2, .github-button{
     background: transparent;
     border-radius: 3px;
     color: #fff;
@@ -13,7 +13,7 @@
     transition: background-color .3s,border-color .3s,color .3s;
 }
 
-.download-button-1{
+.unlocked-download-button {
     background: #2cc302;
     display: block;
     line-height: 1.4286;
