@@ -7,7 +7,7 @@
 
 Stuack is a chrome extension for www.studocu.com to get free premium features.
 
-This repository is forked from [isanchop/stuhack](https://github.com/isanchop/stuhack). I do not own the original code, but I have introduced my own modifications and adaptaions to improve usability of the original work. 
+This repository is forked from [isanchop/stuhack](https://github.com/isanchop/stuhack). I do not own the original code, but I have introduced my own modifications and adaptaions to improve its usability. 
 
 ## Features:
   
