@@ -7,7 +7,7 @@
 
 Stuack is a chrome extension for www.studocu.com to get free premium features.
 
-This repository is forked from [isanchop/stuhack](https://github.com/isanchop/stuhack). I do not own the original code, but I have introduced my own modifications and adaptaions to improve its usability. 
+This repository is forked from [isanchop/stuhack](https://github.com/isanchop/stuhack). I do not own the original code, but I have introduced my own modifications and adaptations to improve its usability. 
 
 ## Features:
   
@@ -19,7 +19,7 @@ This repository is forked from [isanchop/stuhack](https://github.com/isanchop/st
     
 ## Documents Download:
   
-1) If document longer than 20 pages scroll down till the end of the document in order to load it (Notice if you go too fast won't load some images)
+1) If document is longer than 20 pages scroll down till the end of the document in order to load it (Notice if you go too fast won't load some images)
 2) Press the Download button to get a document preview in another tab
 3) Press Ctrl + P in the new tab in order to print. Then select print document in pdf 
 
